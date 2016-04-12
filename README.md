@@ -5,6 +5,7 @@ This Application takes a String as User Input and consequently shows the genrati
 Run the program in your terminal using the following commands :
 
 javac huffman.java
+
 java huffman
 
 At first a window opens where the user need to enter the String and press enter and the animation starts.
