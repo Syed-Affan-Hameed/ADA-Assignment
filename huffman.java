@@ -23,7 +23,7 @@ public  class huffman extends JFrame {
 	
 	public huffman(){
 	
-		super("STRING INPUT WINDOW");	
+		super("GROUP-14 ADA ASSIGNMENT:HUFFMAN CODING");
 		setLayout(new FlowLayout());
 		setSize(1000,500);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -234,7 +234,7 @@ public NewWindow(Node b) {
                 } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException ex) {
                 }
 
-                JFrame frame = new JFrame("HUFFMAN TREE GENERATION");
+                JFrame frame = new JFrame("GROUP-14 ADA PROJECT:HUFFMAN TREE GENERATION ANIMATION ");
              
    
 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
